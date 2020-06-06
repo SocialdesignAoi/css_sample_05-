@@ -12,6 +12,8 @@
 }
 
 header {
+  background-repeat:no-repeat;
+  background-position:50%50%;
    position:center;
    height: 40vh;
     background: url("weightless-60632_1280.jpg");
