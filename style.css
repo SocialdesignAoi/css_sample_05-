@@ -13,7 +13,7 @@
 
 header {
    position:relative;
-   height: 40vh;
+   height: 30vh;
     background: url("weightless-60632_1280.jpg");
    box-shadow: 0 4px 0.3125rem rgba(0, 0, 0, 0.3);
  }
@@ -22,7 +22,7 @@ header {
     position: absolute;
     top: 3rem;
     left: 3rem;
-    font-size: 10rem;
+    font-size: 7rem;
     color: white;
  }
 
